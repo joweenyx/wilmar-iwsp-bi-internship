@@ -45,6 +45,6 @@ This repository contains my **Integrated Work Study Programme (IWSP) End-of-Trim
 
 ## Contact
 
-**School Email:** 2301093@sit.singaporetech.edu.sg 
-**Personal Email:** angjoween@gmail.com
-**LinkedIn:** www.linkedin.com/in/joween-ang
+-**School Email:** 2301093@sit.singaporetech.edu.sg 
+-**Personal Email:** angjoween@gmail.com
+-**LinkedIn:** www.linkedin.com/in/joween-ang
